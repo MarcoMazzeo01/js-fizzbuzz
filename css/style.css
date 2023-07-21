@@ -1,0 +1,15 @@
+body {
+    background-color: #FDF8EC;
+}
+
+section {
+    background-color: #81BDC3;
+    width: 80%;
+    border-radius: 30px;
+}
+
+.numberItem {
+    text-align: center;
+    background-color: #CCD5C3;
+    border-radius: 100%;
+}
